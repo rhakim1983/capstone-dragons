@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: tek.capstone.dragons.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 4.453 s <<< FAILURE! - in tek.capstone.dragons.runner.TestRunner
+Retail Signin Feature.Verify user can sign in into Retail Application  Time elapsed: 3.131 s  <<< ERROR!
+org.openqa.selenium.remote.http.ConnectionFailedException: 
+Unable to establish websocket connection to http://localhost:50721/devtools/browser/45b63bee-2c57-4dd3-85df-470396513b91
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-RSQ44QA', ip: '10.0.0.195', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: driver.version: ChromeDriver
+	at org.openqa.selenium.remote.http.netty.NettyWebSocket.<init>(NettyWebSocket.java:102)
+	at org.openqa.selenium.remote.http.netty.NettyWebSocket.lambda$create$3(NettyWebSocket.java:128)
+	at org.openqa.selenium.remote.http.netty.NettyClient.openSocket(NettyClient.java:106)
+	at org.openqa.selenium.devtools.Connection.<init>(Connection.java:77)
+	at org.openqa.selenium.chromium.ChromiumDriver.lambda$new$2(ChromiumDriver.java:116)
+	at java.base/java.util.Optional.map(Optional.java:260)
+	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:114)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:70)
+	at tek.capstone.dragons.config.ChromeHeadless.openBrowser(ChromeHeadless.java:16)
+	at tek.capstone.dragons.base.BaseSetup.setupBrowser(BaseSetup.java:50)
+	at tek.capstone.dragons.base.BaseUITest.setupTests(BaseUITest.java:12)
+
+Retail Signin Feature.Verify user can sign in into Retail Application  Time elapsed: 3.132 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because the return value of "tek.capstone.dragons.utilities.CommonUtility.getDriver()" is null
+	at tek.capstone.dragons.utilities.CommonUtility.takeScreenShotAsBytes(CommonUtility.java:64)
+	at tek.capstone.dragons.base.BaseUITest.closeTests(BaseUITest.java:19)
+
