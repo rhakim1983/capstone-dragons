@@ -58,7 +58,8 @@ public class RetailOrderPage extends BaseSetup {
     	
 	
 	// Return Order locatores
-	//@FindBy(id = "returnBtn")
+	
+	@FindBy(id = "returnBtn")
 	public WebElement returnItemBttn;
 	@FindBy(id = "reasonInput")
 	public WebElement reasonInputBttn;
@@ -70,15 +71,15 @@ public class RetailOrderPage extends BaseSetup {
 	public WebElement returnWasSuccessfull;
 	
 	// Review on Order Placed
-	@FindBy(xpath = "//*[@id=\"reviewBtn\"]")
+	@FindBy(id = "reviewBtn")
 	public WebElement reviewBttn;
-	@FindBy(xpath = "//*[@id=\"headlineInput\"]")
+	@FindBy(id = "headlineInput")
 	public WebElement headlineInputText;
-	@FindBy(xpath = "//*[@id=\"descriptionInput\"]")
+	@FindBy(id = "descriptionInput")
 	public WebElement reviewTextInputText;
 	@FindBy(id = "reviewSubmitBtn")
 	public WebElement addYourReviewBttn;
-	@FindBy(xpath = "//*[@id=\"ek2ny8n\"]/div[1]/div[2]")
+	@FindBy(xpath = "//*[@id=\"mr4yg65\"]/div[1]/div[2]")
 	public WebElement yourReviewWasAddedSuccessfully;
 	//public WebElement apexLegendsItem;
 	

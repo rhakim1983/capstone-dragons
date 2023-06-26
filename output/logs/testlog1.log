@@ -3895,3 +3895,80 @@
 2023-06-20 00:25:25,617 [main] INFO logger_file - Cancel the order button was clicked Successfully
 2023-06-20 00:25:25,777 [main] INFO logger_file - Bought wrong item reason was selected successfully
 2023-06-20 00:25:25,890 [main] INFO logger_file - Cancel submit button was clicked successfully
+2023-06-22 23:31:30,404 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-22 23:31:30,672 [main] INFO logger_file - user clicked on account option
+2023-06-22 23:31:31,793 [main] INFO logger_file - Order link clicked successfully
+2023-06-22 23:31:57,552 [main] INFO logger_file - Cancel the order button was clicked Successfully
+2023-06-22 23:31:57,746 [main] INFO logger_file - Bought wrong item reason was selected successfully
+2023-06-22 23:31:57,884 [main] INFO logger_file - Cancel submit button was clicked successfully
+2023-06-22 23:32:39,708 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-22 23:32:39,938 [main] INFO logger_file - user clicked on account option
+2023-06-22 23:32:41,030 [main] INFO logger_file - Order link clicked successfully
+2023-06-22 23:32:41,576 [main] INFO logger_file - Cancel the order button was clicked Successfully
+2023-06-22 23:32:41,744 [main] INFO logger_file - Bought wrong item reason was selected successfully
+2023-06-22 23:32:41,868 [main] INFO logger_file - Cancel submit button was clicked successfully
+2023-06-22 23:38:44,551 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-22 23:38:44,771 [main] INFO logger_file - user clicked on account option
+2023-06-22 23:38:46,176 [main] INFO logger_file - Apex Legendsentered successfully
+2023-06-22 23:38:52,115 [main] INFO logger_file - item was clicked successfully
+2023-06-22 23:38:52,565 [main] INFO logger_file - 5 quantity was selected successfully
+2023-06-22 23:38:58,861 [main] INFO logger_file - 5quantity was validated successfuly
+2023-06-22 23:38:59,005 [main] INFO logger_file - cart button was clicked successfully
+2023-06-22 23:38:59,150 [main] INFO logger_file - procced to checkout button was clicked successfully
+2023-06-22 23:38:59,265 [main] INFO logger_file - Place your order button was clicked successfully
+2023-06-22 23:43:02,533 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-22 23:43:02,771 [main] INFO logger_file - user clicked on account option
+2023-06-22 23:43:04,085 [main] INFO logger_file - Order link clicked successfully
+2023-06-22 23:43:04,926 [main] INFO logger_file - Cancel the order button was clicked Successfully
+2023-06-22 23:43:05,133 [main] INFO logger_file - Bought wrong item reason was selected successfully
+2023-06-22 23:43:05,284 [main] INFO logger_file - Cancel submit button was clicked successfully
+2023-06-22 23:46:28,150 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-22 23:46:28,361 [main] INFO logger_file - user clicked on account option
+2023-06-22 23:46:29,679 [main] INFO logger_file - Order link clicked successfully
+2023-06-24 23:33:17,361 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-24 23:33:17,579 [main] INFO logger_file - user clicked on account option
+2023-06-24 23:33:18,733 [main] INFO logger_file - Order link clicked successfully
+2023-06-24 23:34:19,578 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-24 23:34:19,794 [main] INFO logger_file - user clicked on account option
+2023-06-24 23:34:20,932 [main] INFO logger_file - Order link clicked successfully
+2023-06-24 23:34:21,485 [main] INFO logger_file - Cancel the order button was clicked Successfully
+2023-06-24 23:34:21,679 [main] INFO logger_file - Bought wrong item reason was selected successfully
+2023-06-24 23:34:21,811 [main] INFO logger_file - Cancel submit button was clicked successfully
+2023-06-24 23:59:51,222 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-24 23:59:51,453 [main] INFO logger_file - user clicked on account option
+2023-06-24 23:59:52,734 [main] INFO logger_file - Order link clicked successfully
+2023-06-24 23:59:53,653 [main] INFO logger_file - Cancel the order button was clicked Successfully
+2023-06-24 23:59:53,850 [main] INFO logger_file - Bought wrong item reason was selected successfully
+2023-06-24 23:59:54,043 [main] INFO logger_file - Cancel submit button was clicked successfully
+2023-06-25 00:08:32,699 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-25 00:08:33,013 [main] INFO logger_file - user clicked on account option
+2023-06-25 00:08:34,262 [main] INFO logger_file - Order link clicked successfully
+2023-06-25 00:08:34,765 [main] INFO logger_file - Cancel the order button was clicked Successfully
+2023-06-25 00:08:34,928 [main] INFO logger_file - Bought wrong item reason was selected successfully
+2023-06-25 00:08:35,052 [main] INFO logger_file - Cancel submit button was clicked successfully
+2023-06-25 10:49:26,624 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-25 10:49:27,044 [main] INFO logger_file - user clicked on account option
+2023-06-25 10:49:28,255 [main] INFO logger_file - Order link clicked successfully
+2023-06-25 10:50:00,385 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-25 10:50:00,715 [main] INFO logger_file - user clicked on account option
+2023-06-25 10:50:02,204 [main] INFO logger_file - Order link clicked successfully
+2023-06-25 10:50:02,823 [main] INFO logger_file - Cancel the order button was clicked Successfully
+2023-06-25 10:50:02,984 [main] INFO logger_file - Bought wrong item reason was selected successfully
+2023-06-25 10:50:03,108 [main] INFO logger_file - Cancel submit button was clicked successfully
+2023-06-25 10:53:19,947 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-25 10:53:20,257 [main] INFO logger_file - user clicked on account option
+2023-06-25 10:53:25,881 [main] INFO logger_file - return button was clicked successfully
+2023-06-25 10:53:26,195 [main] INFO logger_file - Item damagedwas selected
+2023-06-25 10:53:26,369 [main] INFO logger_file - FedEx service was selected
+2023-06-25 10:53:26,519 [main] INFO logger_file - return order button was clicked successfully
+2023-06-25 10:53:27,007 [main] INFO logger_file - Return was successfull message displayed
+2023-06-25 10:54:52,474 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-25 10:54:52,704 [main] INFO logger_file - user clicked on account option
+2023-06-25 10:54:57,965 [main] INFO logger_file - Review button was clicked
+2023-06-25 10:54:58,491 [main] INFO logger_file - User successfully write comment in Review section
+2023-06-25 10:54:58,643 [main] INFO logger_file - Add Your Review button was clicked successfully
+2023-06-25 11:07:38,581 [main] INFO logger_file - Retail Website Open and Verified
+2023-06-25 11:07:38,809 [main] INFO logger_file - user clicked on account option
+2023-06-25 11:07:45,781 [main] INFO logger_file - Review button was clicked
+2023-06-25 11:07:46,282 [main] INFO logger_file - User successfully write comment in Review section
+2023-06-25 11:07:46,425 [main] INFO logger_file - Add Your Review button was clicked successfully

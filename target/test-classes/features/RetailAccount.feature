@@ -12,7 +12,7 @@ Feature: Retail Account Page
   @updateNameAndPhone
   Scenario: Verify User can update Profile Information
     When User click on Account option
-    And User update Name 'Reshan' and Phone '333-434-9999'
+    And User update Name 'Jaweed' and Phone '333-434-9888'
     And User click on Update button
     Then user profile information should be updated
 
@@ -21,7 +21,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 2222333355553434 | Azizi     |               11|           2026 |          897 |
+      | 2222333355550000 | Jaweed     |               09|           2027 |          019 |
     And User click on Add your Card button
     Then a message should be displayed 'Payment Method added sucessfully'
 
@@ -31,13 +31,13 @@ Feature: Retail Account Page
     And User click on Edit option of card section     
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 6562859624954599 | John       |              9  |           2028 |          190 |
+      | 6562859624954500 | John       |              8  |           2028 |          190 |
     And user click on Update Your Card button
 
   @removeCard
   Scenario: Verify User can remove Debit or Credit card
     When User click on Account option 
-    And User select the card ending with '3434'
+    And User select the card ending with '4500'
     And User click on remove option of card section
     Then payment details should be removed
 
@@ -47,7 +47,7 @@ Feature: Retail Account Page
     And User click on Add address option
     And user fill new address form with below information
       | country     | fullName     | phoneNumber | streetAddress | apt  | city  | state | zipCode |
-      | United States   | Wali        |  5434560760 | 1960 Morse Ave        | 18   | Sacramento | California | 95825 |
+      | United States   | Nasim        |  5434560761 | 1960 Morse Ave        | 18   | Sacramento | California | 95825 |
     And User click on Add Your Address button 
     Then a message should be displayed 'Address Added Successfully'
     
@@ -56,7 +56,7 @@ Feature: Retail Account Page
     And User click on edit address option
     And User fill new address form with below information
       | country     | fullName | phoneNumber | streetAddress | apt | city  | state | zipCode |
-      | Turkey      | Jawad    |  2334567896 | 34 st         | 48  | Mamak | Ankara|  20019   |
+      | Turkey      | Ahmad    |  2334567897 | 34 st         | 48  | Mamak | Ankara|  20019   |
     And User click update Your Address button
     Then a message should be displayed 'Address Updated Successfully'
 
