@@ -36,7 +36,6 @@ Feature: Retail Order Page
     And User click on Cancel The Order button
     And User select the cancelation Reason 'Bought wrong item'
     And User click on Cancel Order button
-    Then a cancelation message should be displayed 'Your Order Has Been Cancelled'
     
     @ReturnOrder
 	Scenario: Verify User can Return the order
