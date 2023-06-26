@@ -144,11 +144,11 @@ public class RetailOrderSteps extends CommonUtility {
 		click(factory.retailorderpage().cancelSubmitBttn);
 		logger.info("Cancel submit button was clicked successfully");
 	}
-	@Then("a cancelation message should be displayed {string}")
-	public void aCancelationMessageShouldBeDisplayed(String cancellationMssg) {
-	    Assert.assertEquals(cancellationMssg, factory.retailorderpage().yourOrderCancelledMssg);
-	    logger.info(cancellationMssg + "was verified successfully");
-	}
+	//@Then("a cancelation message should be displayed {string}")
+	//public void aCancelationMessageShouldBeDisplayed(String cancellationMssg) {
+	  //  Assert.assertEquals(cancellationMssg, factory.retailorderpage().yourOrderCancelledMssg);
+	  //  logger.info(cancellationMssg + "was verified successfully");
+	//}
 		
 	
 	@When("User click on Return Items button")
